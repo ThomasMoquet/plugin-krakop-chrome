@@ -1,0 +1,13 @@
+{
+   "manifest_version": 2,
+   "content_scripts": [ {
+      "js": [ "jquery-1.6.2.min.js", "indesirables.js" ],
+      "matches": [ "*://*.kraland.org/*" ]
+   } ],
+   "description": "Kracop Tools",
+   "name": "Kracop Tools",
+   "permissions": [ 
+        "http://*/*", 
+        "https://*/*" ],
+   "version": "1.0"
+}
