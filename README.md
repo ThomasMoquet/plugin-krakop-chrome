@@ -1,0 +1,1 @@
+Pour tester l'extension en développement, allez sur chrome://chrome/extensions/ (mode développeur), "charger l'extension non empaquetée", sélectionner le répertoire, l'extension apparait, pour tester vos modifs, cliquer sur actualiser, rafraishissez la page de Kraland et c'est pris en compte.
